@@ -1,6 +1,6 @@
 # Hi, I'm Xiaoke Tan 👋
 
-I'm a PhD student in **Energy and Power** at the **College of Electrical and Information Engineering, Hunan University**, pursuing a direct-entry PhD after my undergraduate studies.
+I'm a PhD student in **Energy and Power** at the **College of Electrical and Information Engineering, Hunan University**.
 
 ## Research Interests
 
