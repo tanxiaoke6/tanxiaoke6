@@ -4,7 +4,6 @@ I'm a PhD student in **Energy and Power** at the **College of Electrical and Inf
 
 ## Research Interests
 
-- Autonomous Driving
 - Deep Learning
 - Multimodal Large Models
 - Dynamic Virtual Power Plants
